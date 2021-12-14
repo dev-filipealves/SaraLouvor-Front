@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.e86a1b5a.chunk.js",
-    "main.js.map": "/static/js/main.e86a1b5a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1ba960b5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1ba960b5.js.map",
-    "static/js/2.d08612d1.chunk.js": "/static/js/2.d08612d1.chunk.js",
-    "static/js/2.d08612d1.chunk.js.map": "/static/js/2.d08612d1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.d08612d1.chunk.js.LICENSE.txt": "/static/js/2.d08612d1.chunk.js.LICENSE.txt"
+    "main.css": "/SaraLouvor-Front/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/SaraLouvor-Front/static/js/main.e86a1b5a.chunk.js",
+    "main.js.map": "/SaraLouvor-Front/static/js/main.e86a1b5a.chunk.js.map",
+    "runtime-main.js": "/SaraLouvor-Front/static/js/runtime-main.adbc6c00.js",
+    "runtime-main.js.map": "/SaraLouvor-Front/static/js/runtime-main.adbc6c00.js.map",
+    "static/js/2.c008e0dc.chunk.js": "/SaraLouvor-Front/static/js/2.c008e0dc.chunk.js",
+    "static/js/2.c008e0dc.chunk.js.map": "/SaraLouvor-Front/static/js/2.c008e0dc.chunk.js.map",
+    "index.html": "/SaraLouvor-Front/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/SaraLouvor-Front/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c008e0dc.chunk.js.LICENSE.txt": "/SaraLouvor-Front/static/js/2.c008e0dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ba960b5.js",
-    "static/js/2.d08612d1.chunk.js",
+    "static/js/runtime-main.adbc6c00.js",
+    "static/js/2.c008e0dc.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.e86a1b5a.chunk.js"
   ]
